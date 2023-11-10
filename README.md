@@ -5,6 +5,8 @@ Contrôles :
  - Avec I on peut ouvrir l'inventaire pour choisir l'objet à construire.
  - Avec le clic droit on peut pivoter un objet en mode construction.
  - Avec le clic gauche on peut poser l'objet en mode construction.
+ - Avec F on supprimer un objet de type Construction (les murs poser de base et les objet que l'on a poser nous même).
+ - Avec Echape on quitte.
 
  Feature :
  - Inventaire dynamique qui se génère avec les éléments de la structure (mesh et image car je n'ai pas réussi a prendre la thumbnail comme image de texture). (Pas eu le temps de trouver comment rendre les images de même taille en prenant la taille de la cellule)
